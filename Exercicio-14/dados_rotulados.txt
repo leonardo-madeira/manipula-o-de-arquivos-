@@ -1,0 +1,3 @@
+João, maior de idade
+Maria, maior de idade
+Pedro, maior de idade
