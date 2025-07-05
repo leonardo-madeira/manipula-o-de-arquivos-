@@ -1,0 +1,5 @@
+João, 8.5
+Maria, 9.7
+Pedro, 6.2
+leonardo, 0
+lucas, 2
